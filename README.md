@@ -13,6 +13,7 @@
 ## Usage
 
 Options:
+
 * `enabled`  {Boolean} - enabled placeholder (Default: auto)
 * `elements` {String}  - form elements selector (Default: ':text,:password,textarea')
 * `attr`     {String}  - placehold message attribute (Default: 'placeholder')
@@ -21,12 +22,14 @@ Options:
 * `message`  {String}  - placehold message (Default: '')
 
 HTML Example:
+
 	<form>
 	  <input type="text" name="name" placeholder="Your name" />
 	  <input type="text" name="email" placeholder="Your e-mail" />
 	</form>
 
 Script Example:
+
 	// Setup placeholder
 	$('form').placehold();
 	// Disable placeholder
