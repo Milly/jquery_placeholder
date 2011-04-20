@@ -5,10 +5,10 @@
 * [jQuery](http://jquery.com) 1.3 or later
 
 ## Author
-* Milly (http://d.hatena.ne.jp/MillyC/)
+* Milly <http://d.hatena.ne.jp/MillyC/>
 
 ## Lisence
-* CC BY-SA (http://creativecommons.org/licenses/by-sa/3.0/)
+* Creative Commons BY-SA <http://creativecommons.org/licenses/by-sa/3.0/>
 
 ## Usage
 
